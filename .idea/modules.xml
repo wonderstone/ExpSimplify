@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Expsimplify.iml" filepath="$PROJECT_DIR$/.idea/Expsimplify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExpSimplify.iml" filepath="$PROJECT_DIR$/.idea/ExpSimplify.iml" />
     </modules>
   </component>
 </project>
